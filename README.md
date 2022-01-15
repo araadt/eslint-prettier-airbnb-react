@@ -1,5 +1,8 @@
-## I am no longer maintaining this project.
+A fork of [https://github.com/paulolramos/eslint-prettier-airbnb-react](https://github.com/paulolramos/eslint-prettier-airbnb-react) for backup purposes.
 
+
+
+---
 # Installation
 
 1. Navigate to your app directory where you want to include this style configuration.
